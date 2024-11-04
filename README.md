@@ -5,6 +5,7 @@ Alexandria, Egypt
 __________________
 
 Hello! I'm Muhammed Wahba, a 23-year-old student with a passion for business management and accounting, currently pursuing my degree at Alexandria University. My journey is marked by a blend of solid academic grounding and hands-on experience in technology and sales, aiming to bridge the gap between business strategy and digital innovation.
+
 A. Certifications & Courses
 1. ICDL | Edraak
 2. Sales Training | Ahmed Khalifa, Growth Engine
