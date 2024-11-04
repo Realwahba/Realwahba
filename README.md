@@ -22,8 +22,11 @@ C. Technical Skills
 2. Microsoft Excel: Skilled in creating and managing complex Excel spreadsheets
 3. Computer Proficiency:
 A. Fast, accurate typing
+
 B. Professional email communication
+
 C. Skilled in creating and managing spreadsheets
+
 D. Proficient in word processing and online research
 __________________
 Eager to connect, learn, and contribute to projects that blend business insights with technical proficiency. Always open to new opportunities and collaborations in tech and business!
