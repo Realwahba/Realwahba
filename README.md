@@ -21,6 +21,7 @@ C. Technical Skills
 1. Node.js Development: Experience with coding in Node.js, capable of building efficient and scalable applications
 2. Microsoft Excel: Skilled in creating and managing complex Excel spreadsheets
 3. Computer Proficiency:
+
 A. Fast, accurate typing
 
 B. Professional email communication
