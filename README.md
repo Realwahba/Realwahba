@@ -10,6 +10,7 @@ A. Certifications & Courses
 1. ICDL | Edraak
 2. Sales Training | Ahmed Khalifa, Growth Engine
 3. Social Media Design | Almentor
+4. Websites Made Simple | Dave Kaminski
 
 B. Skills & Proficiencies
 Business & Communication
