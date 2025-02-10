@@ -23,9 +23,9 @@ Crafting pixel-perfect WordPress sites and building robust Node.js applications.
 - Mobile responsiveness
 
 ## 🌱 Recent Projects
+- WhatsApp Group Sender (Streamlined mass communication tool)
 - Supermarket POS System (Clean React.js interface for easy checkout)
 - Mega.nz File Manager (Automated cloud storage organization)
-- WhatsApp Group Sender (Streamlined mass communication tool)
 - Custom WordPress sites that load faster than your coffee brew ☕
 
 ## 🎓 Education & Training
