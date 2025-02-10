@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Muhammed!
+# 👋 Hey there, I'm Muhammed Wahba!
 
 Self-taught WordPress wizard & Node.js enthusiast | Commerce student by day, code craftsman by night ✨
 
