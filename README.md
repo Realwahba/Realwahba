@@ -1,34 +1,45 @@
-Muhammed Wahba
-Business Management & Accounting Student
-Faculty of Commerce, Alexandria University
-Alexandria, Egypt
-__________________
+# 👋 Hey there, I'm Muhammed!
 
-Hello! I'm Muhammed Wahba, a 23-year-old student with a passion for business management and accounting, currently pursuing my degree at Alexandria University. My journey is marked by a blend of solid academic grounding and hands-on experience in technology and sales, aiming to bridge the gap between business strategy and digital innovation.
+Self-taught WordPress wizard & Node.js enthusiast | Commerce student by day, code craftsman by night ✨
 
-A. Certifications & Courses
-1. ICDL | Edraak
-2. Sales Training | Ahmed Khalifa, Growth Engine
-3. Social Media Design | Almentor
-4. Websites Made Simple | Dave Kaminski
+## What I'm all about
 
-B. Skills & Proficiencies
-Business & Communication
-1. Strong communication skills for impactful client and team interactions
-2. Excellent time management and problem-solving abilities
-3. Thrive under pressure, both independently and within team environments
+Crafting pixel-perfect WordPress sites and building robust Node.js applications. When I'm not deep in code or managing databases, you'll find me studying Business Management & Accounting at Alexandria University.
 
-C. Technical Skills
-1. Node.js Development: Experience with coding in Node.js, capable of building efficient and scalable applications
-2. Microsoft Excel: Skilled in creating and managing complex Excel spreadsheets
-3. Computer Proficiency:
+## 🛠 Tech Stack
+- WordPress (Full-site development & customization)
+- PHP (Making WordPress dance to my tune)
+- Node.js (Backend sorcery)
+- HTML/CSS (Pixel perfection)
+- JavaScript (Frontend magic)
+- MySQL (Data wrangling)
+- Excel (Spreadsheet ninja)
 
-A. Fast, accurate typing
+## 💪 My WordPress Arsenal
+- Speed optimization
+- WooCommerce setup
+- Security hardening
+- Database management
+- Mobile responsiveness
 
-B. Professional email communication
+## 🌱 Recent Projects
+- Supermarket POS System (Clean React.js interface for easy checkout)
+- Mega.nz File Manager (Automated cloud storage organization)
+- WhatsApp Group Sender (Streamlined mass communication tool)
+- Custom WordPress sites that load faster than your coffee brew ☕
 
-C. Skilled in creating and managing spreadsheets
+## 🎓 Education & Training
+- Business Management & Accounting @ Alexandria University
+- Advanced WordPress Development (Dave Kaminski's program)
+- ICDL Certified
+- Sales Training @ Growth Engine
+- Social Media Design @ Almentor
 
-D. Proficient in word processing and online research
-__________________
-Eager to connect, learn, and contribute to projects that blend business insights with technical proficiency. Always open to new opportunities and collaborations in tech and business!
+## 📫 Let's build something awesome!
+Need a WordPress site that stands out or a Node.js application that scales? Let's chat! Always excited to tackle new challenges and create solutions that work.
+## 🌟 Looking Forward
+Eager to connect and contribute to projects that merge business insights with technical innovation. Always excited to explore new opportunities where code meets strategy!
+Currently exploring new technologies while mastering the current stack. Always open to exciting collaborations where code meets business strategy! 🚀
+"The best code is written with business understanding and technical expertise" - My Coffee Mug
+
+PS: My websites are like my coffee - robust, responsive, and guaranteed to keep you up all night (looking at them) 😉
